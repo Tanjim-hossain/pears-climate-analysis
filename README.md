@@ -69,4 +69,17 @@ The full academic report describing methodology, models, and validation:
 ```text
 data/        Raw datasets  
 notebooks/  Analysis notebooks  
-reports/    Generated reports and PDF  
+reports/    Generated reports and PDF
+
+
+🛠 Skills Demonstrated
+
+Multivariate statistics (PCA)
+
+Hierarchical & longitudinal modeling
+
+Experimental design
+
+Statistical reporting
+
+Real ecological data analysis
